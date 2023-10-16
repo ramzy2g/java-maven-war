@@ -41,13 +41,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>United Core System Releases Nexus Repository</name>
-	      <url>http://3.138.153.223:8081/repository/zelle-release/</url>
+	      <url>http://44.204.234.10:8081/repository/java-maven-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>United Core System Snapshot Nexus Repository </name>
-	      <url>http://3.138.153.223:8081/repository/zelle-snapshot/</url>
+	      <url>http://44.204.234.10:8081/repository/java-maven-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
