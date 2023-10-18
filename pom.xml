@@ -53,7 +53,7 @@
 	</distributionManagement>
 	
 <build>
-	<finalName>mena-app</finalName>
+	<finalName>JoeTappa-app</finalName>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
